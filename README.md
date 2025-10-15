@@ -11,7 +11,7 @@ PostgreSQL
 ## Project Setup
 Clone the repository and navigate to the project directory
 ```
-git clone https://github.com/xxx
+git clone https://github.com/helenafeldner/nextjs-dashboard.git
 cd nextjs-dashboard
 ```
 Install pnpm as your package manager
