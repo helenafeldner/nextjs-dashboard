@@ -11,18 +11,22 @@ PostgreSQL
 ## Project Setup
 Clone the repository and navigate to the project directory
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/xxx
+cd nextjs-dashboard
+```
+Install pnpm as your package manager
+```
+npm install -g pnpm
 ```
 
-Install dependencies
+nstall the project's packages
 ```
-npm install
+pnpm i
 ```
 
-Run the development server
+Start the development server
 ```
-npm run dev
+pnpm dev
 ```
 Then open http://localhost:3000 in your browser.
 
